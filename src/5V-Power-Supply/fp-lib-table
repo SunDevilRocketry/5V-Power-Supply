@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "5V-Power_supply1")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/A0003-5V-Power-Supply/lib/5V-Power-Supply.pretty/5V-Power_supply1.pretty")(options "")(descr ""))
+  (lib (name "Engine-Controller")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/L0002-Liquids-Engine-Controller/lib/Engine-Controller.pretty")(options "")(descr ""))
+)
